@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gitpeek/static/css/main.866e40ed.css",
-    "main.js": "/gitpeek/static/js/main.fa5d7abe.js",
-    "static/js/641.1db1323c.chunk.js": "/gitpeek/static/js/641.1db1323c.chunk.js",
-    "static/media/github.svg": "/gitpeek/static/media/github.9a9e9bec5cc2e9f780a9c2f6c8befa95.svg",
-    "static/media/search.svg": "/gitpeek/static/media/search.308206764433788d3c0afa8e05442859.svg",
-    "index.html": "/gitpeek/index.html",
-    "main.866e40ed.css.map": "/gitpeek/static/css/main.866e40ed.css.map",
-    "main.fa5d7abe.js.map": "/gitpeek/static/js/main.fa5d7abe.js.map",
-    "641.1db1323c.chunk.js.map": "/gitpeek/static/js/641.1db1323c.chunk.js.map"
+    "main.css": "/GitPeek/static/css/main.866e40ed.css",
+    "main.js": "/GitPeek/static/js/main.5ea3033a.js",
+    "static/js/641.1db1323c.chunk.js": "/GitPeek/static/js/641.1db1323c.chunk.js",
+    "static/media/github.svg": "/GitPeek/static/media/github.9a9e9bec5cc2e9f780a9c2f6c8befa95.svg",
+    "static/media/search.svg": "/GitPeek/static/media/search.308206764433788d3c0afa8e05442859.svg",
+    "index.html": "/GitPeek/index.html",
+    "main.866e40ed.css.map": "/GitPeek/static/css/main.866e40ed.css.map",
+    "main.5ea3033a.js.map": "/GitPeek/static/js/main.5ea3033a.js.map",
+    "641.1db1323c.chunk.js.map": "/GitPeek/static/js/641.1db1323c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.866e40ed.css",
-    "static/js/main.fa5d7abe.js"
+    "static/js/main.5ea3033a.js"
   ]
 }
