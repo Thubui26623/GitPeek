@@ -1,4 +1,4 @@
-<img width="1092" height="806" alt="GitPeek" src="https://github.com/user-attachments/assets/c2d83eb5-f45a-44f5-b7ab-2efc10d0a680" /># GitPeek 👀
+# GitPeek 👀
 
 GitPeek is a lightweight web app for exploring GitHub profiles and repositories in a clean and visual way.  
 It provides quick access to user stats, activity, and projects without unnecessary clutter.
@@ -32,7 +32,7 @@ It provides quick access to user stats, activity, and projects without unnecessa
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/gitpeek.git
+git clone https://github.com/a1ferov/gitpeek.git
 cd gitpeek
 npm install
 npm start
