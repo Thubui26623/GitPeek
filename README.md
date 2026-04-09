@@ -32,7 +32,7 @@ It provides quick access to user stats, activity, and projects without unnecessa
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/gitpeek.git
+git clone https://github.com/a1ferov/gitpeek.git
 cd gitpeek
 npm install
 npm start
