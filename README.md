@@ -25,7 +25,8 @@ It provides quick access to user stats, activity, and projects without unnecessa
 
 ## 📸 Preview
 
-<img width="1220" height="928" alt="Screenshot 2026-04-10 at 08-56-27 GitPeek" src="https://github.com/user-attachments/assets/c9374c54-03a9-47d5-9302-e67938d17388" />
+<img width="1220" height="918" alt="Screenshot 2026-04-10 at 10-35-25 GitPeek" src="https://github.com/user-attachments/assets/9bbe5fee-a09c-413e-bf3c-da672bb077e6" />
+
 
 ---
 
